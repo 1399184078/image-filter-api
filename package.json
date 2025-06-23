@@ -8,7 +8,7 @@
     "build": "tsc"
   },
   "dependencies": {
-    "node-gyp": "^10.0.1"
+    "node-gyp": "^10.0.1"，
     "express": "^4.18.2",
     "node-fetch": "^3.3.2",
     "opencv4nodejs": "^5.6.0"
